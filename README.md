@@ -39,5 +39,5 @@ more apps coming soon
 email: mishrapranav224.edu@gmail.com
 ## Authors
 
-- [@dash-codes315](https://github.com/dash-codes315)
+- [@PranavKumar512](https://github.com/PranavKumar512)
 
